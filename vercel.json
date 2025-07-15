@@ -8,8 +8,8 @@
   ],
   "routes": [
     {
-      "src": "/start-listen",
-      "dest": "/api/start_listen.py"
+      "src": "/",
+      "dest": "/api/index.py"
     }
   ]
 }
