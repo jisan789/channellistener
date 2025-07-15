@@ -6,7 +6,7 @@ from fastapi.responses import JSONResponse
 api_id = 28345038
 api_hash = '6c438bbc256629655ca14d4f74de0541'
 string_session = '1BVtsOLUBu1crEID8o2mj9IKdivq4aifZ0-_5s6OLDWHQzlftgquIKw6Wf-zhDAiAwrYIRcCzA9XU8V5OgkWTpTfp2C5y-J13a5wpNbhGO6lCHk7rT-V3YUwVCZb855OFqFwzG5eLGW2NOYe68hlzqBA4ggfJJl69kTWz8bBQULBnsHN5d_04c-EJwvi4DpN-szfif5ZIkNN9thoMTeNpsXjVZpZheL316mXGcrbyq0ZlxPrTZ3EE9utSgfULrUobSuWhy8338mc_-ctvD5tTV8Ht2AV3kmBOOxl7rRuSqn4hXIHIoX1abJJEfGCMnLb_3geYPn_OKYJrK3sFp1walcYu-qfZjBs='  # Insert your valid string session here
-channel_id = -1002704490894
+channel_id = -1002039265615
 
 app = FastAPI()
 
